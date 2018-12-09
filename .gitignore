@@ -1,3 +1,4 @@
 .ipynb_checkpoints/*
 !/.gitignore  # explicitly do not ignore .gitignore
 ignore_folder/*
+logs/*
